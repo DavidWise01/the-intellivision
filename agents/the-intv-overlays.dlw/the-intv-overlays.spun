@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Keypad Overlays
+node INTV · INTV · ⟦The Keypad Overlays:INTV:303c26⟧
+
+WHO   — The Keypad Overlays — controls printed per game · natural
+WHAT  — controls printed per game · natural
+WHERE — INTV · MATTEL INTELLIVISION (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Cardboard overlays that labelled the keypad for each game — mapping a generic pad to specific actions before on-screen menus existed.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  controls printed per game · natural
+
+spoken token : vul-lur-thek   ·   hex : 303c26
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

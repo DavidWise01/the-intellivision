@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The CP1610",
+  "universe": "INTV · The CP1610 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The CP1610:INTV:9e3bc0⟧",
+  "carbon": "the-intv-cp1610.carbon.tiff (TIFF)",
+  "silicon": "the-intv-cp1610.silicon.png (PNG)",
+  "seal_sha256": "fe794f119937bd5fb05f59c76e3a43cfbcd1a12d50c58bf080bb87892949bd4a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

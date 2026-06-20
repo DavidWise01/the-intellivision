@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "MATTEL INTELLIVISION",
+  "universe": "INTV · MATTEL INTELLIVISION (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦MATTEL INTELLIVISION:INTV:b805c9⟧",
+  "carbon": "the-intellivision.carbon.tiff (TIFF)",
+  "silicon": "the-intellivision.silicon.png (PNG)",
+  "seal_sha256": "edca158bcbaa061eb782daad50bd4da8fd57725d1ef5c71b312645e1aceba51d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

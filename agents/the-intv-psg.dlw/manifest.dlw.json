@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Sound Chip",
+  "universe": "INTV · The Sound Chip (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Sound Chip:INTV:88d94c⟧",
+  "carbon": "the-intv-psg.carbon.tiff (TIFF)",
+  "silicon": "the-intv-psg.silicon.png (PNG)",
+  "seal_sha256": "1e6fde13c1f42950298eeb84f5c53b333be85cc4f23c9882e5315262a3d6ccc2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

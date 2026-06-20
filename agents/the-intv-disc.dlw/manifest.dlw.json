@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Disc Controller",
+  "universe": "INTV · The Disc Controller (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Disc Controller:INTV:57bce7⟧",
+  "carbon": "the-intv-disc.carbon.tiff (TIFF)",
+  "silicon": "the-intv-disc.silicon.png (PNG)",
+  "seal_sha256": "d5dc4bbc2d37a7cb025536c80f834c2a88b47c3dc09efe8a3ae115683b42d22b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

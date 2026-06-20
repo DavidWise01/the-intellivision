@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The STIC",
+  "universe": "INTV · The STIC (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The STIC:INTV:ee9411⟧",
+  "carbon": "the-intv-stic.carbon.tiff (TIFF)",
+  "silicon": "the-intv-stic.silicon.png (PNG)",
+  "seal_sha256": "d6d20c3856c1f78c879d14d0fcf76432d4bdf2cfe57b0182cc3f679159a17f03",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

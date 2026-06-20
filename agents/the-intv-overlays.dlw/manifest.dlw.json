@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Keypad Overlays",
+  "universe": "INTV · The Keypad Overlays (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Keypad Overlays:INTV:303c26⟧",
+  "carbon": "the-intv-overlays.carbon.tiff (TIFF)",
+  "silicon": "the-intv-overlays.silicon.png (PNG)",
+  "seal_sha256": "42cf61b8e761d0d2446893e7624753ad8b4f50651759a6988b6b970ae8fa4d3c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

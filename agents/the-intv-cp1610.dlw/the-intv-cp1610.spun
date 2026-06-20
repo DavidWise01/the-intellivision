@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The CP1610
+node INTV · INTV · ⟦The CP1610:INTV:9e3bc0⟧
+
+WHO   — The CP1610 — 16-bit, early · electrical
+WHAT  — 16-bit, early · electrical
+WHERE — INTV · MATTEL INTELLIVISION (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — General Instrument's CP1610 — a genuine 16-bit processor running under 1 MHz, the basis of the Intellivision's 'intelligent television' pitch.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  16-bit, early · electrical
+
+spoken token : phol-gris-lund   ·   hex : 9e3bc0
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

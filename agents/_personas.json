@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-intv-cp1610",
+    "name": "The CP1610",
+    "epithet": "16-bit, early · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The CP1610:INTV:9e3bc0⟧"
+  },
+  {
+    "slug": "the-intv-stic",
+    "name": "The STIC",
+    "epithet": "real backgrounds · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The STIC:INTV:ee9411⟧"
+  },
+  {
+    "slug": "the-intv-psg",
+    "name": "The Sound Chip",
+    "epithet": "three voices · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Sound Chip:INTV:88d94c⟧"
+  },
+  {
+    "slug": "the-intv-voice",
+    "name": "Intellivoice",
+    "epithet": "games that talk · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Intellivoice:INTV:bf5932⟧"
+  },
+  {
+    "slug": "the-intv-disc",
+    "name": "The Disc Controller",
+    "epithet": "the divisive control · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Disc Controller:INTV:57bce7⟧"
+  },
+  {
+    "slug": "the-intv-overlays",
+    "name": "The Keypad Overlays",
+    "epithet": "controls printed per game · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Keypad Overlays:INTV:303c26⟧"
+  }
+]
